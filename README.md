@@ -15,11 +15,11 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
+
 Program to find the gcd of two number using function.
 Developed by: CHANDRAPRIYADHARSHINI C
 RegisterNumber:  23013526
-*/
+
 def gcd():
     num1=int(input())
     num2=int(input())
